@@ -11,7 +11,7 @@
     "expo": "^25.0.0",
     "firebase": "^4.9.1",
     "react": "16.2.0",
-    "react-native": "0.53.0",
+    "react-native": "0.70.6",
     "react-native-linear-gradient": "^2.4.0"
   },
   "devDependencies": {
